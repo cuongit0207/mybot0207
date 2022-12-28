@@ -118,57 +118,57 @@ async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, Cancel
             replyMarkup: replyKeyboardMarkup,
             cancellationToken: cancellationToken);
     }
-    //else if (messageText.Equals("SẢNH SEXY"))
-    //{
-    //    sb.AppendLine(messageText);
-    //    ReplyKeyboardMarkup replyKeyboardMarkup = new(new[]
-    //        {
-    //            new KeyboardButton[] { "TÀI XỈU 51" },
-    //        })
-    //    {
-    //        ResizeKeyboard = true
-    //    };
+    else if (messageText.Equals("SẢNH SEXY"))
+    {
+        sb.AppendLine(messageText);
+        ReplyKeyboardMarkup replyKeyboardMarkup = new(new[]
+            {
+                new KeyboardButton[] { "TÀI XỈU 51" },
+            })
+        {
+            ResizeKeyboard = true
+        };
 
-    //    Message sentMessage1 = await botClient.SendTextMessageAsync(
-    //        chatId: chatId,
-    //        text: "Bạn chơi bàn nào?",
-    //        replyMarkup: replyKeyboardMarkup,
-    //        cancellationToken: cancellationToken);
-    //}
-    //else if (messageText.Equals("SẢNH DG"))
-    //{
-    //    sb.AppendLine(messageText);
-    //    ReplyKeyboardMarkup replyKeyboardMarkup = new(new[]
-    //        {
-    //            new KeyboardButton[] { "XÚC SẮC 22" },
-    //        })
-    //    {
-    //        ResizeKeyboard = true
-    //    };
+        Message sentMessage1 = await botClient.SendTextMessageAsync(
+            chatId: chatId,
+            text: "Bạn chơi bàn nào?",
+            replyMarkup: replyKeyboardMarkup,
+            cancellationToken: cancellationToken);
+    }
+    else if (messageText.Equals("SẢNH DG"))
+    {
+        sb.AppendLine(messageText);
+        ReplyKeyboardMarkup replyKeyboardMarkup = new(new[]
+            {
+                new KeyboardButton[] { "XÚC SẮC 22" },
+            })
+        {
+            ResizeKeyboard = true
+        };
 
-    //    Message sentMessage1 = await botClient.SendTextMessageAsync(
-    //        chatId: chatId,
-    //        text: "Bạn chơi bàn nào?",
-    //        replyMarkup: replyKeyboardMarkup,
-    //        cancellationToken: cancellationToken);
-    //}
-    //else if (messageText.Equals("SẢNH EVOLUTION"))
-    //{
-    //    sb.AppendLine(messageText);
-    //    ReplyKeyboardMarkup replyKeyboardMarkup = new(new[]
-    //        {
-    //            new KeyboardButton[] { "SIỂU TX" ,"HOÀNG ĐẾ TÀI XỈU"},
-    //        })
-    //    {
-    //        ResizeKeyboard = true
-    //    };
+        Message sentMessage1 = await botClient.SendTextMessageAsync(
+            chatId: chatId,
+            text: "Bạn chơi bàn nào?",
+            replyMarkup: replyKeyboardMarkup,
+            cancellationToken: cancellationToken);
+    }
+    else if (messageText.Equals("SẢNH EVOLUTION"))
+    {
+        sb.AppendLine(messageText);
+        ReplyKeyboardMarkup replyKeyboardMarkup = new(new[]
+            {
+                new KeyboardButton[] { "SIỂU TX" ,"HOÀNG ĐẾ TÀI XỈU"},
+            })
+        {
+            ResizeKeyboard = true
+        };
 
-    //    Message sentMessage1 = await botClient.SendTextMessageAsync(
-    //        chatId: chatId,
-    //        text: "Bạn chơi bàn nào?",
-    //        replyMarkup: replyKeyboardMarkup,
-    //        cancellationToken: cancellationToken);
-    //}
+        Message sentMessage1 = await botClient.SendTextMessageAsync(
+            chatId: chatId,
+            text: "Bạn chơi bàn nào?",
+            replyMarkup: replyKeyboardMarkup,
+            cancellationToken: cancellationToken);
+    }
     else if (messageText.StartsWith("0"))
     {
         sb.AppendLine(messageText);
