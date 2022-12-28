@@ -157,7 +157,7 @@ async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, Cancel
         sb.AppendLine(messageText);
         ReplyKeyboardMarkup replyKeyboardMarkup = new(new[]
             {
-                new KeyboardButton[] { "SIỂU TX" ,"HOÀNG ĐẾ TÀI XỈU"},
+                new KeyboardButton[] { "SIÊU TX" ,"HOÀNG ĐẾ TÀI XỈU"},
             })
         {
             ResizeKeyboard = true

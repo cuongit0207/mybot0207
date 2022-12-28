@@ -1,0 +1,8 @@
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\Settings.job
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\TelegramBot.exe
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\TelegramBot.dll
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\TelegramBot.deps.json
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\TelegramBot.runtimeconfig.json
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\TelegramBot.pdb
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\Newtonsoft.Json.dll
+F:\TLBotGit\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\AIBot\Telegram.Bot.dll
