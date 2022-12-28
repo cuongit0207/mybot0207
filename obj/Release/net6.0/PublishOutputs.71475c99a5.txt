@@ -1,0 +1,8 @@
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\Settings.job
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\TelegramBot.exe
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\TelegramBot.dll
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\TelegramBot.deps.json
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\TelegramBot.runtimeconfig.json
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\TelegramBot.pdb
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\Newtonsoft.Json.dll
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ScheduleTelegramBot\Telegram.Bot.dll

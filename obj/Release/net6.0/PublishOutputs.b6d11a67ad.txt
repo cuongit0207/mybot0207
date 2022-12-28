@@ -1,0 +1,8 @@
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\Settings.job
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\TelegramBot.exe
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\TelegramBot.dll
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\TelegramBot.deps.json
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\TelegramBot.runtimeconfig.json
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\TelegramBot.pdb
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\Newtonsoft.Json.dll
+F:\TelegramBot\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Continuous\ContinuousTelegramBot\Telegram.Bot.dll

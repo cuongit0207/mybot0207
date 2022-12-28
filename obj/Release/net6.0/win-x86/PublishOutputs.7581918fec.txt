@@ -1,0 +1,3 @@
+F:\TelegramBot\bin\Release\net6.0\publish\win-x86\TelegramBot.pdb
+F:\TelegramBot\bin\Release\net6.0\publish\win-x86\Settings.job
+F:\TelegramBot\bin\Release\net6.0\publish\win-x86\TelegramBot.exe

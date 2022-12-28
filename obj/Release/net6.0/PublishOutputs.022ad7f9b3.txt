@@ -1,0 +1,7 @@
+F:\TelegramBot\bin\Release\net6.0\publish\TelegramBot.exe
+F:\TelegramBot\bin\Release\net6.0\publish\TelegramBot.dll
+F:\TelegramBot\bin\Release\net6.0\publish\TelegramBot.deps.json
+F:\TelegramBot\bin\Release\net6.0\publish\TelegramBot.runtimeconfig.json
+F:\TelegramBot\bin\Release\net6.0\publish\TelegramBot.pdb
+F:\TelegramBot\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+F:\TelegramBot\bin\Release\net6.0\publish\Telegram.Bot.dll
